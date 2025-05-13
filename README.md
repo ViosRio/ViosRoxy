@@ -2,7 +2,7 @@
 # 🔥 ViosRoxy - Termux Proxy Client  
 **Powered by DeepSeek & Vios Team**  
 
-![Banner](https://i.hizliresim.com/abc123.jpg) *(Örnek banner eklenebilir)*  
+![Banner](https://i.hizliresim.com/abc123.jpg)  
 
 ---
 
@@ -33,3 +33,12 @@ ViosRoxy, **Termux üzerinde çalışan**, Webshare.io API entegrasyonlu **otoma
    git clone https://github.com/ViosRio/ViosRoxy.git
    cd ViosRoxy
    python proxy.py
+
+---
+
+ ## 🔔 **DİKKAT**
+ 1. **WebShare Kurallara Uyun Ban Yemeyin**
+ 2. **VPN Değildir İllagel İşler İçin Sorumluluk Kullanıcıya Ait**
+ 3. **Aktivitler İzlenmektedir Mesela Geçmiş Adres Vb**
+ 4. **Genelde Hükümet Protesto Bölgelerde Bant Genişliğini Daraltır, Sadece Router Değiştirerek Hızlanma Erişimine Açtır**
+   
